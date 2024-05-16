@@ -1,0 +1,28 @@
+body {
+    background-image: url(images/hhh.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+.container {
+    margin-top: 90px;
+    border: 2px solid rgb(107, 18, 104);
+    border-radius: 10px;
+    height: 500px;
+}
+
+.my-list {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 80px;
+    margin-bottom: 50px;
+
+}
+
+.productName {
+    color: rgb(14, 13, 13);
+    font-size: 20px;
+    font-weight: 800;
+}
